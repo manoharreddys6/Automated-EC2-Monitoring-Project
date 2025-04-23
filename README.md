@@ -32,5 +32,5 @@ This project also demonstrates a security best practice by avoiding the use of t
 
 Overall, it's a real-time cloud automation solution, showcasing readiness for cloud support roles through hands-on AWS experience.
 
-
+LinkedIn : https://www.linkedin.com/posts/raghuram-manohar-reddy-196a91214_aws-cloudcomputing-ec2-activity-7320770709712945153-rmJ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZD2MIBhbPPHlBqqrxuWD9Wz8Xicp6Of-8
 
